@@ -61,7 +61,7 @@ Through this project, I gained practical experience in:
 
 The dashboard screenshots will be included in this repository.
 
-Additional project files, including Excel workbooks, SQL queries and Power BI files, will be added when available.
+Additional project files, including Excel workbooks, SQL queries and Power BI files are added.
 
 ## Author
 
